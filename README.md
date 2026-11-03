@@ -26,9 +26,9 @@ I'm a **developer** and Computer Science student in Seoul, Korea 🇲🇳 → �
 
 ### Team Projects
 
-- [**Trasolve**](https://github.com/egod1537/trasolve): Find places with AI and plan how to get there. Built trip creation, place selection, external map import and route-based travel segment UI. TypeScript + React. [Demo](https://trasolve.mangagaki.net) (2026)
-- [**FrameUI**](https://github.com/dongcheolpark/FrameUI): Headless UI component framework for React with accessible (WAI-ARIA) components. TypeScript. (2026)
-- **CineLog**: Movie diary and community app with a viewing calendar, ratings, community boards, keyword alerts and Firebase authentication. Java. (2026)
+- [**Trasolve**](https://github.com/egod1537/trasolve): Find places with AI and plan how to get there. Built trip creation, place selection, external map import and route-based travel segment UI. TypeScript + React. [Demo](https://trasolve.mangagaki.net)
+- [**FrameUI**](https://github.com/dongcheolpark/FrameUI): Headless UI component framework for React with accessible (WAI-ARIA) components. TypeScript.
+- **CineLog**: Movie diary and community app with a viewing calendar, ratings, community boards, keyword alerts and Firebase authentication. Java.
 
 ## Education
 
