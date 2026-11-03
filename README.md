@@ -10,6 +10,8 @@ I'm a **developer** and Computer Science student in Seoul, Korea 🇲🇳 → �
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ... and whatever the project needs.
@@ -22,10 +24,11 @@ I'm a **developer** and Computer Science student in Seoul, Korea 🇲🇳 → �
 - **AdminPanel**: Admin dashboard for managing products and orders, with drag-and-drop sorting. 
 - **Studyabroad Hub**: Information hub for students planning to study abroad. TypeScript. 
 
-### Open Source & Team Projects
+### Team Projects
 
-- [**FrameUI**](https://github.com/dongcheolpark/FrameUI): Headless UI component framework for React with accessible (WAI-ARIA) components.
-- **Trasolve**: Trip planning service, team project at Soongsil University. 
+- [**Trasolve**](https://github.com/egod1537/trasolve): Find places with AI and plan how to get there. Built trip creation, place selection, external map import and route-based travel segment UI. TypeScript + React. [Demo](https://trasolve.mangagaki.net) (2026)
+- [**FrameUI**](https://github.com/dongcheolpark/FrameUI): Headless UI component framework for React with accessible (WAI-ARIA) components. TypeScript. (2026)
+- **CineLog**: Movie diary and community app with a viewing calendar, ratings, community boards, keyword alerts and Firebase authentication. Java. (2026)
 
 ## Education
 
