@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **developer** and Computer Science student at **Soongsil University** in Seoul, Korea 🇲🇳 → 🇰🇷.
+I'm a **developer** and Computer Science student in Seoul, Korea 🇲🇳 → 🇰🇷.
 I like building web products end to end, from UI components to deployment.
 
 ## Languages & Tools
@@ -26,17 +26,13 @@ I like building web products end to end, from UI components to deployment.
 
 ### Open Source & Team Projects
 
-- [**FrameUI**](https://github.com/dongcheolpark/FrameUI): Headless UI component framework for React with accessible (WAI-ARIA) components. (2026)
+- [**FrameUI**](https://github.com/dongcheolpark/FrameUI): Headless UI component framework for React with accessible (WAI-ARIA) components.
 - **Trasolve**: Trip planning service, team project at Soongsil University. (2026)
 
 ## Education
 
 - **Soongsil University**, B.S. in Computer Science (2023 ~ 2026)
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Bolderdene0710&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolderdene0710&layout=compact&theme=transparent&hide_border=true)
+- **National University of Mongolia (NUM) as part of high school** (2017-2020)
 
 ## Contact
 
