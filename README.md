@@ -38,7 +38,7 @@ I'm a **developer** and Computer Science student in Seoul, Korea 🇲🇳 → �
 
 ### Personal Projects
 
-- [**Olivin Beauty**](https://github.com/Bolderdene0710/olivin-beauty-launch-21): K-Beauty e-commerce store for Mongolia, with brands, categories, checkout and countryside delivery. React + TypeScript + Supabase, deployed on Cloudflare. 
+- **Olivin Beauty**: K-Beauty e-commerce store for Mongolia, with brands, categories, checkout and countryside delivery. React + TypeScript + Supabase, deployed on Cloudflare. 
 - **AdminPanel**: Admin dashboard for managing products and orders, with drag-and-drop sorting. 
 - **Studyabroad Hub**: Information hub for students planning to study abroad. TypeScript. 
 
