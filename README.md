@@ -33,6 +33,11 @@ I like building web products end to end, from UI components to deployment.
 
 - **Soongsil University**, B.S. in Computer Science (2023 ~ 2026)
 
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Bolderdene0710&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolderdene0710&layout=compact&theme=transparent&hide_border=true)
+
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-mesh020503%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesh020503@gmail.com)
